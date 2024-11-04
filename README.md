@@ -23,4 +23,4 @@ Contributions are welcome! Please follow the [contribution guidelines](./CONTRIB
 
 ## License
 
-MIT © [Agentix](https://github.com/agentix) 
+MIT © [Rhysmalcolm13](https://github.com/Rhysmalcolm13) 
